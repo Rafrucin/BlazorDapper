@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorDapper", "BlazorDapper\BlazorDapper.csproj", "{9B1F3567-84A3-4338-B51D-2C429CA623C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLib", "DataAccessLib\DataAccessLib.csproj", "{1154FF13-86D3-4BDC-A47E-4C74DA43EFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1F3567-84A3-4338-B51D-2C429CA623C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1F3567-84A3-4338-B51D-2C429CA623C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1F3567-84A3-4338-B51D-2C429CA623C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1F3567-84A3-4338-B51D-2C429CA623C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1154FF13-86D3-4BDC-A47E-4C74DA43EFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1154FF13-86D3-4BDC-A47E-4C74DA43EFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1154FF13-86D3-4BDC-A47E-4C74DA43EFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1154FF13-86D3-4BDC-A47E-4C74DA43EFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D867B70A-C35A-45DE-895E-CE0009DCEEBD}
+	EndGlobalSection
+EndGlobal
